@@ -15,7 +15,7 @@ function createParagraph(){
     var text13 = document.getElementById('text13').value
     var text14 = document.getElementById('text14').value
 
-    var paragraph =   "<p>It was a" + text1 +"cold November day. I woke up to the"+ text2+ "smell of" + text3 + " roasting in the" + text4 + " downstairs.  I" + text5 +" down the stairs to see if I could help" + text6 + "the dinner. My mom said, See if" + text7 + "needs a fresh" + text8 + "So I carried a tray of glasses full of" + text9 + "into the" + text10 + "room. When I got there, I couldn't believe my" + text11 +"! There were" + text12 +"on the" + text13 +"!</p>"
+    var paragraph =   "<p>It was a" + text1 +" cold November day. I woke up to the"+ text2+ " smell of" + text3 + " roasting in the" + text4 + " downstairs.  I" + text5 +" down the stairs to see if I could help" + text6 + "the dinner. My mom said, See if" + text7 + " needs a fresh" + text8 + " So I carried a tray of glasses full of" + text9 + " into the" + text10 + " room. When I got there, I couldn't believe my" + text11 +"! There were" + text12 +" on the" + text13 +"!</p>"
   
 
 
